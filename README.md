@@ -4,6 +4,5 @@
 
 `the project is still in development`
 
-im still [preparing] (https://velora.ru)
-
-so let me [cook] (https://miruro.to)
+[thiss](https://app.eraser.io/workspace/lR8IVMPruqkVEUnrDjJ2?origin=) is how the nextAuth is implemented/works btw
+![nextAuthWorkflow](image.png)
